@@ -2,7 +2,7 @@
 <h1 align="center">Я Сергей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergey-xdt&theme=solarized_dark)
+<p align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergey-xdt&theme=solarized_dark)</p>
 
 
 <!--
