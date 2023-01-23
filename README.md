@@ -2,8 +2,7 @@
 <h1 align="center">Я Сергей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<p align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergey-xdt&theme=solarized_dark)</p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergey-xdt&theme=solarized_dark)
 
 <!--
 **sergey-xdt/sergey-xdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
